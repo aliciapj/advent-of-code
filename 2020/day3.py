@@ -53,5 +53,5 @@ def part2():
 
 if __name__ == "__main__":
 
-    # print(f' PART 1: {part1()}')
+    print(f' PART 1: {part1()}')
     print(f' PART 2: {part2()}')
